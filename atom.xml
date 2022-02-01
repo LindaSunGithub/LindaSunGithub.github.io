@@ -1,63 +1,145 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lindasungithub.github.io</id>
-    <title>Gridea</title>
-    <updated>2022-02-01T01:47:10.750Z</updated>
+    <title>LINDA SUN CONSULTING INC.</title>
+    <updated>2022-02-01T18:58:37.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lindasungithub.github.io"/>
     <link rel="self" href="https://lindasungithub.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>Accounting, tax and business consulting. </subtitle>
     <logo>https://lindasungithub.github.io/images/avatar.png</logo>
     <icon>https://lindasungithub.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, Gridea</rights>
-    <entry>
-        <title type="html"><![CDATA[Contact]]></title>
-        <id>https://lindasungithub.github.io/post/contact/</id>
-        <link href="https://lindasungithub.github.io/post/contact/">
-        </link>
-        <updated>2022-01-30T16:17:05.000Z</updated>
-        <content type="html"><![CDATA[<p>lorem</p>
-]]></content>
-    </entry>
+    <rights>All rights reserved 2022, LINDA SUN CONSULTING INC.</rights>
     <entry>
         <title type="html"><![CDATA[Services]]></title>
         <id>https://lindasungithub.github.io/post/services/</id>
         <link href="https://lindasungithub.github.io/post/services/">
         </link>
-        <updated>2022-01-30T16:15:51.000Z</updated>
-        <content type="html"><![CDATA[<p>lorem</p>
+        <updated>2022-02-01T02:58:04.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="corporate">Corporate</h1>
+<blockquote>
+<ul>
+<li>
+<p>T2 Corporation tax return</p>
+</li>
+<li>
+<p>Apply for GST, PST, WCB, Payroll and Import &amp; Export number</p>
+</li>
+<li>
+<p>Computerized accounting systems setup</p>
+</li>
+<li>
+<p>Bookkeeping and accounts reconciliation (Monthly, Quarterly, Annually)</p>
+</li>
+<li>
+<p>GST, PST and WCB report preparation and remittances</p>
+</li>
+<li>
+<p>Preparation of financial statements</p>
+</li>
+<li>
+<p>Payroll preparation and source deduction remittances, T4, T4 summary, ROE</p>
+</li>
+</ul>
+</blockquote>
+<br>
+<h1 id="personal">Personal</h1>
+<blockquote>
+<ul>
+<li>
+<p>T1 personal income tax return ( E-filing )</p>
+</li>
+<li>
+<p>Foreign properties reporting</p>
+</li>
+<li>
+<p>Accounting for self-employment</p>
+</li>
+<li>
+<p>Non-resident income tax return</p>
+</li>
+<li>
+<p>Previous years income tax return and adjustments</p>
+</li>
+<li>
+<p>Personal and family income tax planning</p>
+</li>
+</ul>
+</blockquote>
+<br>
+<h1 id="accounting-training">Accounting training</h1>
+<blockquote>
+<ul>
+<li>
+<p>Bookkeeping / Accounting Fundamentals training</p>
+</li>
+<li>
+<p>Accounting software training</p>
+</li>
+<li>
+<p>Simple personal income tax training</p>
+</li>
+</ul>
+</blockquote>
+<br>
+<h1 id="other-related-services">Other related services</h1>
+<blockquote>
+<ul>
+<li>
+<p>New immigrant GST credit application</p>
+</li>
+<li>
+<p>SIN, MSP, Canada Child Tax Benefit application</p>
+</li>
+<li>
+<p>MSP premium assistance and PharmaCare premium assistance application</p>
+</li>
+<li>
+<p>Children Registered Education Saving Plan ( Government Grant )</p>
+</li>
+<li>
+<p>Registered Retired Saving Plan</p>
+</li>
+<li>
+<p>Financial planning services</p>
+</li>
+</ul>
+</blockquote>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://lindasungithub.github.io/post/hello-gridea/</id>
-        <link href="https://lindasungithub.github.io/post/hello-gridea/">
+        <title type="html"><![CDATA[Contact]]></title>
+        <id>https://lindasungithub.github.io/post/contact/</id>
+        <link href="https://lindasungithub.github.io/post/contact/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+        <updated>2022-02-01T02:56:32.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="e-mail">E-mail:</h1>
+<h3 id="infolindasuncgacom"><code>info@lindasuncga.com</code></h3>
+<h3 id="lindasuncgaliveca"><code>lindasuncga@live.ca</code></h3>
+<br>
+<h1 id="tel">Tel:</h1>
+<h3 id="604-295-3888"><code>(604) 295-3888</code></h3>
+<br>
+<h1 id="address">Address:</h1>
+<h3 id="260-12560-bridgeport-rd"><code>260-12560 Bridgeport Rd</code></h3>
+<h3 id="richmond-bc-v6v-2n5"><code>Richmond, BC, V6V 2N5</code></h3>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[About us]]></title>
+        <id>https://lindasungithub.github.io/post/about/</id>
+        <link href="https://lindasungithub.github.io/post/about/">
+        </link>
+        <updated>2019-01-20T03:09:48.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="our-practice-provides-taxation-accounting-business-advisory-services-we-service-a-wide-range-of-small-and-medium-size-companies-in-a-variety-of-industries-businesses-and-professions-with-our-special-focus-on-taxation-we-want-to-assist-our-clients-to-plan-their-business-affairs-to-minimize-their-taxes-year-after-year-as-well-as-to-devise-and-implement-tax-plans-that-anticipate-future-changes-in-their-affairs">Our practice provides taxation, accounting, business advisory services. We service a wide range of small and medium size companies in a variety of industries, businesses and professions. With our special focus on taxation, we want to assist our clients to plan their business affairs to minimize their taxes year after year, as well as to devise and implement tax plans that anticipate future changes in their affairs.</h2>
+<br>
+<br>
+<h2 id="accountant-linda-sun-is-a-member-of-the-chartered-professional-accountant-association-of-canada-and-the-chartered-professional-accountant-association-of-british-columbia">Accountant: <strong>Linda Sun</strong> is a member of the <code>Chartered Professional Accountant Association of Canada</code> and the <code>Chartered Professional Accountant Association of British Columbia</code></h2>
+<br>
+<br>
+<blockquote>
+<h2 id="she-started-her-professional-career-since-1991-both-accounting-firm-and-industry-working-experience-give-her-exceptional-strategies-on-her-own-public-practice-she-enjoys-working-closely-with-her-clients-assisting-them-in-all-the-financial-aspect-of-their-business-affairs">she started her professional career since 1991, both accounting firm and industry working experience give her exceptional strategies on her own public practice, she enjoys working closely with her clients assisting them in all the financial aspect of their business affairs.</h2>
+</blockquote>
 ]]></content>
     </entry>
 </feed>
