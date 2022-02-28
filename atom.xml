@@ -1,41 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lindasungithub.github.io</id>
-    <title>Accounting Firm Richmond BC</title>
-    <updated>2022-02-20T05:17:00.853Z</updated>
+    <title></title>
+    <updated>2022-02-28T17:51:27.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lindasungithub.github.io"/>
     <link rel="self" href="https://lindasungithub.github.io/atom.xml"/>
-    <subtitle>Accounting, tax and business consulting. </subtitle>
     <logo>https://lindasungithub.github.io/images/avatar.png</logo>
     <icon>https://lindasungithub.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, Accounting Firm Richmond BC</rights>
+    <rights>All rights reserved 2022, </rights>
     <entry>
-        <title type="html"><![CDATA[Services]]></title>
-        <id>https://lindasungithub.github.io/post/services/</id>
-        <link href="https://lindasungithub.github.io/post/services/">
+        <title type="html"><![CDATA[About us]]></title>
+        <id>https://lindasungithub.github.io/post/about/</id>
+        <link href="https://lindasungithub.github.io/post/about/">
         </link>
-        <updated>2022-02-01T02:58:04.000Z</updated>
+        <updated>2022-02-27T02:35:39.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Contact]]></title>
         <id>https://lindasungithub.github.io/post/contact/</id>
         <link href="https://lindasungithub.github.io/post/contact/">
         </link>
-        <updated>2022-01-30T18:56:32.000Z</updated>
+        <updated>2022-01-28T02:56:32.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Scan QR code to Pay]]></title>
-        <id>https://lindasungithub.github.io/post/payment/</id>
-        <link href="https://lindasungithub.github.io/post/payment/">
+        <title type="html"><![CDATA[Services]]></title>
+        <id>https://lindasungithub.github.io/post/services/</id>
+        <link href="https://lindasungithub.github.io/post/services/">
         </link>
-        <updated>2022-01-29T02:00:10.000Z</updated>
+        <updated>2022-01-14T18:58:04.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[About us]]></title>
-        <id>https://lindasungithub.github.io/post/about/</id>
-        <link href="https://lindasungithub.github.io/post/about/">
+        <title type="html"><![CDATA[Financial & Tax Planning]]></title>
+        <id>https://lindasungithub.github.io/post/9U1dYQsxI/</id>
+        <link href="https://lindasungithub.github.io/post/9U1dYQsxI/">
         </link>
-        <updated>2019-01-19T11:09:48.000Z</updated>
+        <updated>2018-02-12T18:27:15.000Z</updated>
     </entry>
 </feed>
